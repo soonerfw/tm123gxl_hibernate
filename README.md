@@ -5,3 +5,10 @@ This has been tested on TM4C 123GXL launchpad,inside the hibernate ISR, it can a
 every 5 seconds, the MCU will wake up, and sample the sensor data and send it through serial port.
 
 The MCU is programmed in hibernate mode (deep sleep).
+
+Tivaware Firmware library is used.
+
+Version 1.0
+tested on Nov 11, 2023
+by Guoping Wang
+
